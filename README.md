@@ -1,3 +1,5 @@
+<img src="[URL_DE_LA_IMAGEN](https://desafiolatam.com/assets/images/home/logo-academia-ne.png)">
+
 # <span style="color:cyan"> Proyecto ADL: Estimación de ratings en anime :star2:
 ### <span style="color:lightblue"> Descripción del Proyecto :clipboard:
 Este proyecto utiliza el conjunto de datos provisto por Academia Desafío Latam. El objetivo es usar Machine Learning para crear un sistema de ayude a estimar el puntaje que una serie/película debería tener dadas sus características.
