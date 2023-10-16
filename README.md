@@ -29,4 +29,4 @@ El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 - Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
 - Análisis de características: Visualización de relaciones entre las variables.
 - Modelado y predicción: Entrenamiento de modelos de aprendizaje automático para predecir el puntaje de cada serie/película.
-- Evaluación del modelo: Evaluación de las métricas R2, MAE y MAPE accuracy.
+- Evaluación del modelo: Evaluación de las métricas R2, MAE y MAPE.
