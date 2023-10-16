@@ -1,4 +1,4 @@
-<img src="https://desafiolatam.com/assets/images/home/logo-academia-ne.png">
+<img src="https://desafiolatam.com/assets/images/home/logo-academia-ne.png" width="283" height="98">
 
 # <span style="color:cyan"> Proyecto ADL: Estimación de ratings en anime :star2:
 ### <span style="color:lightblue"> Descripción del Proyecto :clipboard:
