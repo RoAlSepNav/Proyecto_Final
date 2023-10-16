@@ -1,3 +1,4 @@
+<img src="https://images7.alphacoders.com/737/thumb-1920-737400.jpg">
 <img src="https://desafiolatam.com/assets/images/home/logo-academia-ne.png" width="283" height="98">
 
 # <span style="color:cyan"> Proyecto ADL: Estimación de ratings en anime :star2:
