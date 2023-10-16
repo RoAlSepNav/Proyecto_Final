@@ -17,6 +17,7 @@ En este caso al ser un problema de regresión, las métricas consideradas son R2
 - anime.csv: Archivo CSV que contiene los datos.
 - proyecto.ipynb: Un Jupyter notebook que contiene el código Python para el análisis de datos.
 - funciones.py: Archivo Python que contiene las funciones utilizadas para este proyecto.
+- Adicionalmente se encuentran el documento de instrucciones, un resumen ejecutivo, el informe presentado y la presentación del proyecto en formato power point.
 
 ### <span style="color:orange"> Cómo usar este proyecto :question:
 1. Coloca el archivo anime.csv en la misma carpeta que este proyecto.
